@@ -1,2 +1,2 @@
 compile:
-	gcc -I./ main.c -o main
+	gcc -I./ btree.c main.c -o main
